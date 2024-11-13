@@ -1,6 +1,8 @@
 # log4jpwn
 
 log4j rce test environment. See: <https://www.lunasec.io/docs/blog/log4j-zero-day/>
+Updated:
+<https://github.com/lunasec-io/lunasec/blob/master/docs/blog/2021-12-09-log4j-zero-day.mdx>
 
 This repository contains an intentionally vulnerable playground to play with CVE-2021-44228 (aka: log4shell)
 
